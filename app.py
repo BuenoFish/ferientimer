@@ -76,16 +76,16 @@ st.markdown("""
 ferien_alle = [
     # 2025/2026
     {"name": "🎄 Weihnachtsferien",   "von": date(2025, 12, 22), "bis": date(2026,  1,  2)},
-    {"name": "❄️ Winterferien",        "von": date(2026,  2,  9), "bis": date(2026,  2, 21)},
-    {"name": "🐣 Osterferien",         "von": date(2026,  4,  3), "bis": date(2026,  4, 10)},
-    {"name": "☀️ Sommerferien",         "von": date(2026,  7,  4), "bis": date(2026,  8, 14)},
+    {"name": "❄️ Winterferien",        "von": date(2026,  2,  7), "bis": date(2026,  2, 22)},
+    {"name": "🐣 Osterferien",         "von": date(2026,  4,  3), "bis": date(2026,  4, 12)},
+    {"name": "☀️ Sommerferien",         "von": date(2026,  7,  4), "bis": date(2026,  8, 16)},
     # 2026/2027
-    {"name": "🍂 Herbstferien",        "von": date(2026, 10, 12), "bis": date(2026, 10, 24)},
-    {"name": "🎄 Weihnachtsferien",    "von": date(2026, 12, 23), "bis": date(2027,  1,  2)},
-    {"name": "❄️ Winterferien",         "von": date(2027,  2,  8), "bis": date(2027,  2, 19)},
-    {"name": "🐣 Osterferien",          "von": date(2027,  3, 26), "bis": date(2027,  4,  2)},
+    {"name": "🍂 Herbstferien",        "von": date(2026, 10, 10), "bis": date(2026, 10, 25)},
+    {"name": "🎄 Weihnachtsferien",    "von": date(2026, 12, 23), "bis": date(2027,  1,  3)},
+    {"name": "❄️ Winterferien",         "von": date(2027,  2,  6), "bis": date(2027,  2, 21)},
+    {"name": "🐣 Osterferien",          "von": date(2027,  3, 26), "bis": date(2027,  4,  4)},
     {"name": "🌸 Pfingstferien",        "von": date(2027,  5, 15), "bis": date(2027,  5, 18)},
-    {"name": "☀️ Sommerferien",          "von": date(2027,  7, 10), "bis": date(2027,  8, 20)},
+    {"name": "☀️ Sommerferien",          "von": date(2027,  7, 10), "bis": date(2027,  8, 22)},
 ]
 
 # ── Lunas Sprüche (von der Katze 😂) ──────────────────────────────────────────
