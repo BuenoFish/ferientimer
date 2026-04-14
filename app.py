@@ -123,7 +123,7 @@ for f in ferien_alle:
 
 # ── Header ─────────────────────────────────────────────────────────────────────
 st.markdown("## 🐱 Lunas Schulferienkalender")
-st.markdown("#### Sachsen – Countdown für Lehrerinnen, die es verdienen 🎓")
+st.markdown("#### Sachsen – Ferien kommen. Irgendwann. Statistisch gesehen.")
 
 st.write("")
 
