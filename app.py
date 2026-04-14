@@ -4,7 +4,7 @@ import math
 
 # ── Seitenkonfiguration ────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="🐱 Lunas Ferienkalender – Sachsen",
+    page_title="Lunas Ferienkalender - Sachsen",
     page_icon="🐱",
     layout="centered",
 )
@@ -91,19 +91,19 @@ ferien_alle = [
 
 # ── Lunas Sprüche (von der Katze 😂) ──────────────────────────────────────────
 luna_sprueche_countdown = [
-    "Ich hab nachgezählt – mit meinen Pfoten. Hat ein bisschen gedauert.",
-    "Solange noch Schule ist, benutze ich deinen Platz auf dem Sofa als Reservierung.",
-    "Ich trainiere schon mal mein Schnurren für die Ferienzeit. Wird toll.",
-    "Mein Fell liegt bereit. Dein Schoß noch nicht. Beeil dich mit den Ferien.",
-    "Als Britisch Kurzhaar bin ich von Natur aus geduldig. Aber nur bis zu einem gewissen Punkt.",
-    "Ich habe den Kalender angeknabbert. War eine konstruktive Meinungsäußerung.",
-    "Ferien bedeuten: mehr Streicheln, weniger Korrekturen. Eine Win-Win-Situation.",
+    "Ich hab genau nachgezählt – mit meinen Schwanzklopfern.",
+    "Solange noch Schule ist, benutze ich deinen Platz auf dem Sofa.",
+    "Ich trainiere schon mal Schnurren für die Ferienzeit. Wird toll.",
+    "Mein Fell liegt bereit. Beeil dich mit den Ferien.",
+    "Ferien bedeuten: mehr Streicheln und Besuch bei Annas Katzen.",
+    "Jeden Tag, den du arbeitest, stirbt ein Knäuel Wolle.",
+    "Ich esse jetzt deine Pflanzen. Das ist keine Drohung. Es ist ein Countdown.",
 ]
 luna_sprueche_ferien = [
-    "ES SIND FERIEN! Ich hatte schon einen Kuschelpatz reserviert. Du weißt wo.",
+    "ES SIND FERIEN! Ich hab dir schon deinen Kuschelpatz reserviert.",
     "Ferien! Endlich kann ich dich bei jeder Gelegenheit anschnurren. Der Plan läuft.",
     "Ferien!! Mein Schnurrmotor läuft auf Hochtouren. Du wurdest gewarnt.",
-    "FERIEN! Als Britisch Kurzhaar bin ich normalerweise entspannt – aber JETZT BIN ICH AUFGEREGT!",
+    "FERIEN. Ich lasse die Legoblumen diesmal stehen. Als Zeichen des guten Willens.",
 ]
 
 # ── Logik ──────────────────────────────────────────────────────────────────────
