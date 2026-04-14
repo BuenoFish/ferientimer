@@ -78,7 +78,6 @@ ferien_alle = [
     {"name": "🎄 Weihnachtsferien",   "von": date(2025, 12, 22), "bis": date(2026,  1,  2)},
     {"name": "❄️ Winterferien",        "von": date(2026,  2,  9), "bis": date(2026,  2, 21)},
     {"name": "🐣 Osterferien",         "von": date(2026,  4,  3), "bis": date(2026,  4, 10)},
-    {"name": "📅 Unterrichtsfreier Tag","von": date(2026,  5, 15), "bis": date(2026,  5, 15)},
     {"name": "☀️ Sommerferien",         "von": date(2026,  7,  4), "bis": date(2026,  8, 14)},
     # 2026/2027
     {"name": "🍂 Herbstferien",        "von": date(2026, 10, 12), "bis": date(2026, 10, 24)},
@@ -264,8 +263,8 @@ st.write("")
 st.markdown("---")
 st.markdown("""
 <div style="text-align:center; color:#aaa; font-size:0.85rem;">
-    🐾 Gemacht mit Liebe (und Lunas Pfotenstempel) &nbsp;·&nbsp;
+    🐾 Gemacht mit Liebe (und Lunas Pfoten) &nbsp;·&nbsp;
     Daten: <a href="https://www.schule.sachsen.de/schuljahrestermine-4793.html" target="_blank" style="color:#f48fb1;">sachsen.de (offiziell)</a>
-    <br>Luna ist eine Britisch Kurzhaar und genehmigt diese App 😺
+    <br>Luna genehmigt diese App 😺
 </div>
 """, unsafe_allow_html=True)
